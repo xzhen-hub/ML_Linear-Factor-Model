@@ -1,5 +1,5 @@
 # ml-linear factor models (LFMs)
-machine learning methods for LFMs
+Machine learning methods for LFMs
 
 1. Part 1: Factor model setup and run OLS regression
    there are over 50 factors that have displayed patterns in return, and there is much attention to observing the state of these factors by firms such as MSCI and other providers of analytical services. We have seen the shift into alternative investment categories by university endowments and more recently by large institutional investors including global pension plans and sovereign wealth funds. 
