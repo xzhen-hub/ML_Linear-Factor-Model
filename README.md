@@ -15,9 +15,17 @@ Currency Protection: This is also an exchange rate factor, capturing the value o
 
 
    
-3. Part 2: Use LASSO regression, and LASSO with cross validation
-  Apply a regularized regression with a penalty term to shrink the loadings. This shrinkage is motivated by the Stein result (paradox) since we are estimating the return for more than 2 asset categories. The best penalty value will be determined by cross validation which useses training and validation to estimate the penalty.
+3. Part 2: ML methods: Use LASSO regression, and LASSO with cross validation
+  Apply a regularized regression with a penalty term to shrink the loadings. This shrinkage is motivated by the Stein result (paradox) since we are estimating the return for more than 2 asset categories. The best penalty value will be determined by cross validation which uses training and validation to estimate the penalty.
 
+Methods to handle estimating factor loadings:
+   versions of penalized regression:
+      -LASSO regression
+      -Ridge regression
+      -Elastic net regression
+
+   version of constrained regression:
+      -Best subset regression
 
 
 4. Part 3: Forecasting 5 factor for multiple assets
