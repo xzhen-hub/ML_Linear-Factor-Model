@@ -1,2 +1,2 @@
-# ml-asset-pricing
-machine learning for asset pricing
+# ml-linear factor models (LFMs)
+machine learning methods for LFMs
